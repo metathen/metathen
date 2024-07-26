@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 <h4>Connect with me</h4>
-<a href="https://web.telegram.org/k/#@metathen"><img src="https://it-news.online/wp-content/uploads/2023/05/Telegram-1536x886.png" width="40" height="40" alt="metathen in telegram"/></a>
+<a href="https://web.telegram.org/k/#@metathen"><img src="https://it-news.online/wp-content/uploads/2023/05/Telegram-1536x886.png" width="60" height="40" alt="metathen in telegram"/></a>
