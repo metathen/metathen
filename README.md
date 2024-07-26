@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h2>Links</h2>
+<a href="https://web.telegram.org/k/#@metathen"><img src="https://web.telegram.org/k/#@telegram" alt="Telegram logo"/></a>
