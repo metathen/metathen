@@ -16,4 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <h4>Connect with me</h4>
-<a href="https://web.telegram.org/k/#@metathen"><img src="./image/telegram.svg" width="60" height="40" alt="metathen in telegram"/></a>
+<p>
+    <a href="https://web.telegram.org/k/#@metathen"><img src="./image/telegram.svg" width="60" height="40" alt="metathen in telegram"/></a>
+    <a href="mailto:metathenlog@gmail.com"><img src="./image/google-gmail.svg" width="60" height="40" alt="metathen mail"/></a>
+</p>
